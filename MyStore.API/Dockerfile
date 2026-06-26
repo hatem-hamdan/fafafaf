@@ -3,8 +3,8 @@ WORKDIR /src
 
 COPY . .
 
-RUN dotnet restore "MyStore.csproj"
-RUN dotnet publish "MyStore.csproj" -c Release -o /app/publish
+RUN dotnet restore "MyStore.API/MyStore.csproj"
+RUN dotnet publish "MyStore.API/MyStore.csproj" -c Release -o /app/publish
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
