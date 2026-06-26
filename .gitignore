@@ -1,0 +1,3 @@
+MyStore/.vs/
+MyStore.API/bin/ MyStore.Business/bin/ MyStore.DataAccess/bin/
+MyStore.API/obj/ MyStore.Business/obj/ MyStore.DataAccess/obj/

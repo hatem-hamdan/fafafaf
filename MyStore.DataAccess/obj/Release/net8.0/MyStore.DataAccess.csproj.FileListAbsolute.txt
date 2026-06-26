@@ -1,0 +1,15 @@
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\bin\Release\net8.0\MyStore.DataAccess.deps.json
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\bin\Release\net8.0\MyStore.DataAccess.runtimeconfig.json
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\bin\Release\net8.0\MyStore.DataAccess.dll
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\bin\Release\net8.0\MyStore.DataAccess.pdb
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\MyStore.DataAccess.csproj.AssemblyReference.cache
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\MyStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\MyStore.DataAccess.AssemblyInfoInputs.cache
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\MyStore.DataAccess.AssemblyInfo.cs
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\MyStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\MyStore.DataAccess.sourcelink.json
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\MyStore.DataAccess.dll
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\refint\MyStore.DataAccess.dll
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\MyStore.DataAccess.pdb
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\MyStore.DataAccess.genruntimeconfig.cache
+C:\MyStore\Backend-C#-Store\MyStore.DataAccess\obj\Release\net8.0\ref\MyStore.DataAccess.dll

@@ -1,0 +1,16 @@
+C:\MyStore\Backend-C#-Store\MyStore.Business\bin\Release\net8.0\MyStore.Business.deps.json
+C:\MyStore\Backend-C#-Store\MyStore.Business\bin\Release\net8.0\MyStore.Business.dll
+C:\MyStore\Backend-C#-Store\MyStore.Business\bin\Release\net8.0\MyStore.Business.pdb
+C:\MyStore\Backend-C#-Store\MyStore.Business\bin\Release\net8.0\MyStore.DataAccess.dll
+C:\MyStore\Backend-C#-Store\MyStore.Business\bin\Release\net8.0\MyStore.DataAccess.pdb
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\MyStore.Business.csproj.AssemblyReference.cache
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\MyStore.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\MyStore.Business.AssemblyInfoInputs.cache
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\MyStore.Business.AssemblyInfo.cs
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\MyStore.Business.csproj.CoreCompileInputs.cache
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\MyStore.Business.sourcelink.json
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\MyStore..394D05E9.Up2Date
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\MyStore.Business.dll
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\refint\MyStore.Business.dll
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\MyStore.Business.pdb
+C:\MyStore\Backend-C#-Store\MyStore.Business\obj\Release\net8.0\ref\MyStore.Business.dll
