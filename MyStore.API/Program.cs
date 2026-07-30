@@ -66,8 +66,7 @@ builder.Services.AddCors(options =>
                 "http://localhost:5215",
                 "https://localhost:5173",
                 "https://my-store5.vercel.app",
-                            "https://e-commerce-frontend-v2-4rzp.vercel.app,
-       "https://e-commerce-frontend-v2-ijfm.vercel.app"
+                            "https://e-commerce-frontend-v2-4rzp.vercel.app
 
 
             )
