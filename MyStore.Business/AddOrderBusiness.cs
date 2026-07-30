@@ -44,6 +44,8 @@ namespace MyStoreBis
                 {
                     ProductId = item.ProductId,
                     Quantity = item.Quantity,
+                         Color =  item.Color,
+
                     Price = item.Price
                 });
             }
