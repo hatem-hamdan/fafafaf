@@ -65,7 +65,9 @@ builder.Services.AddCors(options =>
                 "https://localhost:7217",
                 "http://localhost:5215",
                 "https://localhost:5173",
-                "https://my-store5.vercel.app"
+                "https://my-store5.vercel.app",
+                            "https://e-commerce-frontend-v2-4rzp.vercel.app"
+
 
             )
             .AllowAnyHeader()
