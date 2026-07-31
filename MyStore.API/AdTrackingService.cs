@@ -82,7 +82,13 @@ Console.WriteLine("TrackPurchaseAsync called");
 
             }
 
-            catch { }
+            catch(Exception ex) {
+            
+                Console.WriteLine(ex.ToString());
+
+            
+            
+            }
 
         }
 
