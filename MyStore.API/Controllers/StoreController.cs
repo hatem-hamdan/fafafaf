@@ -4,7 +4,7 @@ using MyStore.DataAccess.DTOs;
 using MyStore.DataAccess.Models;
 using MyStoreBis;
 using System.Security.Claims;
-
+using MyStore.API;
 //using MyStoreBis;
 namespace MyStore.Controllers
 {
