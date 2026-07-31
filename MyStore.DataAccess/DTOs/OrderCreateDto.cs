@@ -10,6 +10,8 @@
         public int UserId { get; set; }
         // مصفوفة المنتجات اللي جاية من سلة الـ React
         public List<OrderItemDto> Items { get; set; }
+public decimal TotalPrice { get; set; }
+        
     }
 
     public class OrderItemDto
