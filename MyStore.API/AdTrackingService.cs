@@ -52,6 +52,9 @@ Console.WriteLine("TrackPurchaseAsync called");
 
                             event_time = DateTimeOffset.UtcNow.ToUnixTimeSeconds(),
 
+                                                                    action_source = "WEBSITE",
+
+
                             user_data = new { em = HashEmail(email) },
 
                             custom_data = new {
