@@ -22,12 +22,18 @@ namespace MyStore.Controllers
         //{
         //    _logger = logger;
         //}
-        private readonly MyStoreContext _context;
 
-        public MyStoreController(MyStoreContext context)
-        {
-            _context = context;
-        }
+
+//// تعريف المتغيرات (هنا فقط)
+    private readonly IAdTrackingService _adTrackingService;
+    private readonly MyStoreContext _context;
+
+    // مشيد واحد فقط يستقبل الخدمتين (هذا التصحيح)
+    public MyStoreController(MyStoreContext context, IAdTrackingService adTrackingService)
+    {
+        _context = context;
+        _adTrackingService = adTrackingService; 
+    }
 
         [HttpGet("/api/MyStore/GetProducts")]
         public async Task<IActionResult> GetAllProducts()
@@ -77,7 +83,11 @@ namespace MyStore.Controllers
                 // استدعاء الدالة
                 int newOrderId = await orderBusiness.InsertOrderAsync(dto);
 
-
+var email = User.FindFirst(ClaimTypes.Email)?.Value;
+                if (!string.IsNullOrEmpty(email))
+                {
+                    _ = _adTrackingService.TrackPurchaseAsync(email, dto);
+                }
 
 
                 return Ok(new
