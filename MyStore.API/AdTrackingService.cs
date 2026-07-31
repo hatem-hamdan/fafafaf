@@ -33,6 +33,7 @@ namespace    MyStore.API      // تأكد أن Namespace صحيح حسب مشر�
 
         {
 
+Console.WriteLine("TrackPurchaseAsync called");
             try
 
             {
