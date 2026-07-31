@@ -1,6 +1,6 @@
 using MyStore.DataAccess.DTOs;
 
-namespace MyStore.Services
+namespace         MyStore.API
 {
     public interface IAdTrackingService
     {
