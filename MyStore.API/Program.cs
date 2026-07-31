@@ -1,5 +1,5 @@
 using MyStoreBis; // ريفرنس لطبقة البزنس فقط
-using MyStore.Services;
+using MyStore.API;
 var builder = WebApplication.CreateBuilder(args);
 //builder.Services.AddScoped<OrderBusiness>();
 // 1. قراءة نص الاتصال من الـ appsettings.json
