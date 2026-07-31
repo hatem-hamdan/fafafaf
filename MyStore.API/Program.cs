@@ -1,5 +1,5 @@
 using MyStoreBis; // ريفرنس لطبقة البزنس فقط
-
+using MyStore.Services;
 var builder = WebApplication.CreateBuilder(args);
 //builder.Services.AddScoped<OrderBusiness>();
 // 1. قراءة نص الاتصال من الـ appsettings.json
@@ -8,8 +8,7 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddInfrastructureServices(connectionString);
 
 
-
-
+builder.Services.AddHttpClient<IAdTrackingService, AdTrackingService>();
 
 builder.Services.AddAuthentication(options =>
 {
