@@ -6,7 +6,7 @@ using System.Text.Json;
 
 
 
-namespace MyStore.Services // تأكد أن Namespace صحيح حسب مشروعك
+namespace    MyStore.API      // تأكد أن Namespace صحيح حسب مشروعك
 
 {
 
